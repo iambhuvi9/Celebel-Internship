@@ -9,4 +9,4 @@ Build a pipeline that retrieves relevant information from a document and uses a 
 
 
 
- Project File: [Week 7 RAG Project](week7/week7_Project.pdf)
+ Project File: [Week 7 RAG Project](week7_Project.pdf)
